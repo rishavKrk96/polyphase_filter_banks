@@ -54,6 +54,4 @@ All four filtering approaches were implemented and tested on a 7-channel QAM inp
 ## Tools Used
 
 - MATLAB
-- Remez algorithm for FIR design
-- Complex heterodyne mixing
-- IFFT for channel separation
+
