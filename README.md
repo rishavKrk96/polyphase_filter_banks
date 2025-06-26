@@ -1,4 +1,4 @@
-# Polyphase Filter Banks – ECE 251C Project
+# Polyphase Filter Banks
 
 ## Author
 
